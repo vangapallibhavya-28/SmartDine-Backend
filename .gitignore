@@ -36,3 +36,8 @@ build/
 .env
 .env.*
 !.env.example
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
